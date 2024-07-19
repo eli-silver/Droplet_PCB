@@ -70,7 +70,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TI_SO-PowerPAD-8_ThermalVias"
+		(property "Footprint" "DropGeneratorPCB:TPS540DDAR"
 			(at 8.89 -17.78 0)
 			(effects
 				(font
